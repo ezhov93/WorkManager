@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StartButton.qml</file>
+        <file>ModeButton.qml</file>
+        <file>Colors.js</file>
+        <file>Pomadoro.qml</file>
+        <file>Tasks.qml</file>
+        <file>AddTask.qml</file>
+        <file>Task.qml</file>
+        <file>Api.qml</file>
+        <file>TaskDialog.qml</file>
+        <file>plus-circle-white.png</file>
+        <file>vertical-ellipsis.png</file>
+    </qresource>
+</RCC>
